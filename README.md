@@ -4,6 +4,6 @@
 - 💬 Ask me about Javascript, React, Redux, Node.js, Express
 - 📫 How to reach me: anitaeatjobs@gmail.com 
 
-
-
+### Tools 
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript 
 -->
