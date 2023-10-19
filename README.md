@@ -6,7 +6,8 @@
 
 ### Languages & Tools 
 
-![image](https://github.com/AMangialavori/AMangialavori/assets/124205823/9d3b6bf4-7ccc-4b93-bafb-bd85ff047acd) 
+![image](https://github.com/AMangialavori/AMangialavori/assets/124205823/9d3b6bf4-7ccc-4b93-bafb-bd85ff047acd) ![image](https://github.com/AMangialavori/AMangialavori/assets/124205823/cb187b8f-2593-4401-8200-1d44c1c001e9)
+
 
 
 -->
