@@ -12,10 +12,10 @@
 ### Proyectos destacados 🚀
 
  <a href="https://github.com/AMangialavori/PIAMangialavoriDrivers" title="Drivers">
-Drivers :checkered_flag: </a>
+:checkered_flag: Drivers</a>
 <br>
  <a href="https://github.com/AMangialavori/RickAndMorty" title="RickAndMorty">
-Rick & Morty :sparkler: </a>
+:sparkler: Rick & Morty</a>
 
 <br>
 <br>
