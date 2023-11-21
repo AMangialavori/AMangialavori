@@ -16,7 +16,7 @@ Estaré encantada de brindarte más información sobre mí!
 </div>
 
 ### Proyectos destacados 🚀
- <a href="https://https://nomada-suite.vercel.app/" title="Nomada Suite">
+ <a href="https://nomada-suite.vercel.app/" title="Nomada Suite">
  :sparkler: Nomada Suite</a>
  <br>
  <a href="https://github.com/AMangialavori/PIAMangialavoriDrivers" title="Drivers">
