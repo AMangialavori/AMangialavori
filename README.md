@@ -1,4 +1,10 @@
 ### Hi there I'm Ana 👋
+Comencé mi carrera profesional graduándome de Analista en Administración de empresas hoteleras y turísticas. Cuento con varios años de experiencia en la industria turística. 
+Actualmente comencé un nuevo reto, el de la programación full Stack en Soy Henry. Mi intención es poner en práctica todo lo aprendido en mis años de experiencia al servicio de este nuevo desafío.
+Me gusta trabajar en equipo, me considero una persona flexible y que se adapta fácilmente a los cambios. Por otro lado, tengo facilidad para incorporar nuevos conocimientos. 
+Me gusta afrontar nuevos desafíos y utilizar todos mis recursos para lograr la meta que me propongo. 
+Estaré encantada de brindarte más información sobre mí!
+
 - 🔭 I’m currently working on my final proyect of Henry's Full Stack Course
 - 🌱 I’m currently learning Full Stack Developer at Soy Henry
 - 💬 Ask me about Javascript, React, Redux, Node.js, Express
@@ -10,7 +16,8 @@
 </div>
 
 ### Proyectos destacados 🚀
-
+ <a href="https://https://nomada-suite.vercel.app/" title="Nomada Suite">
+  Nomada Suite</a>
  <a href="https://github.com/AMangialavori/PIAMangialavoriDrivers" title="Drivers">
 :checkered_flag: Drivers</a>
 <br>
